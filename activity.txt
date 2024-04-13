@@ -26,6 +26,8 @@ NB: Keep in mind to always record your answers below each question; I will mark 
     Only if you were successful, press "q" to "bring the command line path back"
 11. Now track and use a command to view the changes again(Hint: like you did in No. 9)
     provide your answer here
+    - git log 
+
 12. Stage your changes. After, push the code to Git Hub.
 *****DO NOT USE GIT MERGE
 13. Now change to the thirdBranch.
