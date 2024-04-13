@@ -23,6 +23,7 @@ NB: Keep in mind to always record your answers below each question; I will mark 
     2) Netball
     "
 10. Now what command do I use to check what has been changed between branches?
+git diff secondBranch
     Only if you were successful, press "q" to "bring the command line path back"
 11. Now track and use a command to view the changes again(Hint: like you did in No. 9)
     provide your answer here
@@ -35,7 +36,7 @@ NB: Keep in mind to always record your answers below each question; I will mark 
     3) Baseball
     4) Soccer
 15. Now TRACK, provide a message and PUSH the files to the thirdBranch that was created.
-14. Now use a command that will bring the code from the secondBranch to the third branch.
+14. Now use a command that will bring the code from the secondBranch to the third branch.----
 ****TRY NOT TO USE GIT MERGE
 15. Now merge the thirdBranch with the main branch.
 16. Now create a text file called "rules" with a text of "Everyone must play fair".
